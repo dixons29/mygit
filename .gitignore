@@ -1,0 +1,2 @@
+#to give list of files which git should not track
+*.class
